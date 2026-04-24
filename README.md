@@ -11,7 +11,6 @@ Bu proje, Python ve PyQt6 kullanılarak kütüphanesiz (OpenCV kullanmadan) teme
 
 ## İçerik
 - `arayuz.py`: Uygulamanın kaynak kodu.
-- `rapor.pdf`: Yapılan işlemlerin matematiksel analizi ve sonuç raporu.
 
 ## Çalıştırma
 Projeyi çalıştırmak için gerekli kütüphaneleri kurun:
